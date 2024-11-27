@@ -63,7 +63,7 @@ class _PrimeiraPaginaState extends State<PrimeiraPagina> {
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementarContador,
         tooltip: 'Incrementar',
-        child: const Icon(Icons.add),
+        child: const Icon(Icons.add_shopping_cart),
       ),
     );
   }
